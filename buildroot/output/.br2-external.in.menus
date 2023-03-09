@@ -1,0 +1,10 @@
+#
+# Automatically generated file; DO NOT EDIT.
+#
+
+menu "External options"
+
+comment "project_base (in /home/moskito/Desktop/Desktop/code/coursera/systems_prog/Ass5.2/assignment-5-moskwitto/base_external)"
+source "/home/moskito/Desktop/Desktop/code/coursera/systems_prog/Ass5.2/assignment-5-moskwitto/base_external/Config.in"
+
+endmenu
